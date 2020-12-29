@@ -70,7 +70,7 @@ x2ms = 300
 basic.showIcon(IconNames.Happy)
 music.setVolume(10)
 music.playMelody("A F E F D G E F ", 420)
-// **** SERVO CALIBRATION ***
+// **** SERVO CALIBRATION *** v0.1
 // 
 // This project helps with calibrating 360° servos for microbit. 
 // The purpose is to quickly identify the optimum degrees, so the servos will rotate synchronously as much as possible and your bot can move in a straight line as much as possible. 
