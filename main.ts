@@ -68,7 +68,7 @@ strip.setPixelColor(4, NeoPixelColors.Blue)
 strip.show()
 x2ms = 300
 basic.showIcon(IconNames.Happy)
-music.setVolume(10)
+music.setVolume(20)
 music.playMelody("A F E F D G E F ", 420)
 // **** SERVO CALIBRATION *** v0.1
 // 
